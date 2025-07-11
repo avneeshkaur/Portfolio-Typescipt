@@ -18,12 +18,12 @@ A responsive portfolio website built with React.js showcasing my projects, skill
 
 1. Clone the repository
 ```bash
-git clone https://github.com/myusername/my-repo-name.git
+git clone https://github.com/avneeshkaur/Portfolio-Typescipt
 ```
 
 2. Navigate to the project directory
 ```bash
-cd my-repo-name
+cd Portfolio-Typescipt
 ```
 
 3. Install dependencies
@@ -74,7 +74,7 @@ npm start
 ![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot](./screenshots/mobile.jpg)
 
 *Add screenshots of your portfolio in a `screenshots` folder*
 
