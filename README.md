@@ -76,8 +76,6 @@ npm start
 ### Mobile View
 ![Mobile Screenshot](./screenshots/mobile.jpg)
 
-*Add screenshots of your portfolio in a `screenshots` folder*
-
 ## 🚀 Deployment
 
 This project is deployed on [Netlify/Vercel/GitHub Pages]. 
